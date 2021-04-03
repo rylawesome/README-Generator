@@ -29,7 +29,11 @@ const questions = [
         name: 'credits',
         message: 'Insert any contributors or technology used.'
     },
-
+    {
+        type: 'input',
+        name: 'license',
+        message: 'Include a license. If unknown, please check https://choosealicense.com/'
+    },
 ];
 
 inquirer.prompt(questions).then(function(data){
