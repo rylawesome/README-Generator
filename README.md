@@ -18,10 +18,6 @@ Generates an organized README for a project.
 
   This project should be used to easily generate a simple README for any project.
 
-## License
-
-undefined
-
 ## Credits
 
 Technologies used include: node js, file sorter, and inquirer.
