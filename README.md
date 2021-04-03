@@ -17,8 +17,12 @@ Generates an organized README for a project.
 ## Usage
 
   This project should be used to easily generate a simple README for any project.
+  [Video example](https://drive.google.com/file/d/1HrrqNaQknkqO5EG_uSfFNGWJRc9iYLcF/view)
 
 ## Credits
 
-Technologies used include: node js, file sorter, and inquirer.
+Technologies used include: 
+- [node js](https://nodejs.org/en/)
+- [file system](https://nodejs.org/api/fs.html)
+- [inquirer](https://www.npmjs.com/package/inquirer)
 
