@@ -4,11 +4,11 @@ Generates an organized README for a project.
 
 ## Table of Contents
 
- -[Description](#Description)
- -[Installation](#Installation)
- -[Usage](#Usage)
- -[License](#License)
- -[Credits](#Credits)
+ - [Description](#Description)
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+ - [License](#License)
+ - [Credits](#Credits)
 
 ## Installation
 
