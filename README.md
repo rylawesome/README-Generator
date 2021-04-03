@@ -18,7 +18,7 @@ Generates an organized README for a project.
 
   This project should be used to easily generate a simple README for any project.
 
-##License
+## License
 
 undefined
 
